@@ -17,5 +17,4 @@
      * Sklearn with SVM
 8. Text Matching
      * Levenshtein Distance
-     * Phonetic Matching
      * Cosine Similarity

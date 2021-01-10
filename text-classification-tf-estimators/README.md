@@ -1,3 +1,3 @@
-# Text_Classification_Using_TF_Estimators
+# Text Classification using TensorFlow estimators
 
 TensorFlow Estimator framework for text classification
